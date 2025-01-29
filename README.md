@@ -1,5 +1,5 @@
 # TheLogicOfDisassemble
-### 反汇编的逻辑
+### 反编译的逻辑
 
 #### 一、基础理论
 
